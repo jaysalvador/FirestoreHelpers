@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898538951268-5jm2oriu5fp87pvqs3uuevjf5u2uq6a2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898538951268-5jm2oriu5fp87pvqs3uuevjf5u2uq6a2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBg2iYgk6gT8pW0sBY1swwgH5LRa_6xXQc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898538951268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jaysalvador.FirestoreHelpers</string>
+	<key>PROJECT_ID</key>
+	<string>landmark-remark-1cd3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>landmark-remark-1cd3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898538951268:ios:da105213a6a1178e</string>
+	<key>DATABASE_URL</key>
+	<string>https://landmark-remark-1cd3a.firebaseio.com</string>
+</dict>
+</plist>
